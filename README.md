@@ -2,7 +2,7 @@
 
 ---
 
-## sklearn.feature_extraction.text.TfidfVectorizer¶
+## sklearn.feature_extraction.text.TfidfVectorizer
 Convert a collection of raw documents to a matrix of TF-IDF features.
 Equivalent to CountVectorizer followed by TfidfTransformer.
 
