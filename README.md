@@ -23,3 +23,6 @@ In information retrieval, tf–idf or TFIDF, short for term frequency–inverse 
 Variations of the tf–idf weighting scheme are often used by search engines as a central tool in scoring and ranking a document's relevance given a user query. tf–idf can be successfully used for stop-words filtering in various subject fields, including text summarization and classification.
 
 One of the simplest ranking functions is computed by summing the tf–idf for each query term; many more sophisticated ranking functions are variants of this simple model.
+
+```Accuracy: 92.9%```
+
